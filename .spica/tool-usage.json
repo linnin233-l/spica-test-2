@@ -1,0 +1,11 @@
+{
+  "counts": {
+    "ast_search": 1,
+    "grep": 1,
+    "read": 4,
+    "bash": 5,
+    "edit": 3
+  },
+  "sessions": 0,
+  "lastUpdated": "2026-07-07T15:42:19.748Z"
+}
