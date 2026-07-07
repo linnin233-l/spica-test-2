@@ -7,7 +7,7 @@ function truncate(str, maxLen) {
 
 // BUG 2: capitalize() only uppercases first letter but loses rest
 function capitalize(str) {
-  return str[0].toUpperCase();
+  return str ? str[0].toUpperCase() + str.slice(1) : '';
 }
 
 // BUG 3: isPalindrome() always returns false
