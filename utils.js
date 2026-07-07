@@ -13,7 +13,7 @@ function capitalize(str) {
 // BUG 3: isPalindrome() always returns false
 function isPalindrome(str) {
   const reversed = str.split('').reverse().join('');
-  return str === reversed + 'x';
+  return str === reversed;
 }
 
 module.exports = { truncate, capitalize, isPalindrome };
