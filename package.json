@@ -1,0 +1,1 @@
+{"name":"spica-test-2","version":"1.0.0","main":"utils.js","scripts":{"test":"node test.js"}}
