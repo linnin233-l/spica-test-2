@@ -1,0 +1,12 @@
+{
+  "counts": {
+    "glob": 1,
+    "grep": 1,
+    "read": 3,
+    "directory_list": 1,
+    "bash": 2,
+    "edit": 1
+  },
+  "sessions": 0,
+  "lastUpdated": "2026-07-07T15:46:37.137Z"
+}
