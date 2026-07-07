@@ -2,7 +2,7 @@
 
 // BUG 1: truncate() cuts off one character too many
 function truncate(str, maxLen) {
-  return str.slice(0, maxLen - 1);
+  return str.slice(0, maxLen);
 }
 
 // BUG 2: capitalize() only uppercases first letter but loses rest
